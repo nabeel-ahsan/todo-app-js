@@ -26,6 +26,7 @@ body {
   width: 500px;
   height: auto;
   border: 2px solid black;
+  margin: 10px;
 }
 
 .input {
